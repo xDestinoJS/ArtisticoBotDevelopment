@@ -1,0 +1,4 @@
+{
+  "PublicCommands": "a!artisticdevelopers, a!islandchaos, a!dice, a!8ball, a!meow, a!woof, a!help, a!ping, a!report, a!serverinfo, a!botinfo",
+  "AdminCommands": "a!say, a!purge, a!ban, a!kick"
+}
